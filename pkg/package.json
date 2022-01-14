@@ -1,0 +1,16 @@
+{
+  "name": "wasm-sandbox",
+  "collaborators": [
+    "Daniel Gutierrez"
+  ],
+  "description": "Personal learning",
+  "version": "0.1.0",
+  "files": [
+    "wasm_sandbox_bg.wasm",
+    "wasm_sandbox.js",
+    "wasm_sandbox.d.ts"
+  ],
+  "module": "wasm_sandbox.js",
+  "types": "wasm_sandbox.d.ts",
+  "sideEffects": false
+}
